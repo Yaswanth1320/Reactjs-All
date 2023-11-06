@@ -1,3 +1,7 @@
+# I used react router and added all the projects in the same page to see the final output clone the repository
+
+### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
