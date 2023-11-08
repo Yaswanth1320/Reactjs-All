@@ -14,7 +14,7 @@ import Home from './Layout/Home';
   
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path='/'  element={<Heading />}>
+    <Route path='/' element={<Heading />}>
       <Route index element={<Home/>}/>
       <Route path='p1' element={<Project1 />}></Route>
       <Route path='p2' element={<Project2 />}></Route>
